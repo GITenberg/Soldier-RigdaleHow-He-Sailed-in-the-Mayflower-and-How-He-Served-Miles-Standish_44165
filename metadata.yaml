@@ -1,0 +1,42 @@
+_repo: Soldier-RigdaleHow-He-Sailed-in-the-Mayflower-and-How-He-Served-Miles-Standish_44165
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald Bathhurst
+    - Birch, Reginald B. (Reginald Bathurst)
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: archival
+  image_path: 44165-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dix, Beulah Marie
+    alias: Flebbe, Beulah Dix
+    birthdate: 1876
+    deathdate: 1970
+    gutenberg_agent_id: '7389'
+    url: http://www.gutenberg.org/2009/agents/7389
+description: ''
+gutenberg_issued: '2013-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44165'
+  lccn: '99005503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Standish, Myles, 1584?-1656 -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Mayflower (Ship) -- Fiction'
+title: 'Soldier Rigdale: How He Sailed in the Mayflower and How He Served Miles Standish'
+url: http://www.gutenberg.org/ebooks/44165
